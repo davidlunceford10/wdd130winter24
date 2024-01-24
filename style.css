@@ -1,0 +1,26 @@
+#first-paragraph {
+    color: rgb(32, 144, 174);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#actual-first-paragraph {
+    color: rgb(255, 98, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    font-style: italic;
+} 
+
+.other-paragraphs {
+   color: blue;
+    background-color: aquamarine;
+    font-size: 4em;
+}
+
+#myimage {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
