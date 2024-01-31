@@ -1,0 +1,35 @@
+body {
+     background-color: aquamarine;
+     font-size: 32px;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1em;
+    color: black;
+}
+
+img.logo {
+    width: 100px;
+    height: auto;
+}
+
+img#hero-img {
+    width: 100%;
+}
+
+div.social img {
+    width: 200px;
+}
+/*what the div.social img means is that it'll look for images that are under the social class. */
+
+h1, h2, h3, h4 {
+    color: black;
+}
