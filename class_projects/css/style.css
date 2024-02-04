@@ -1,0 +1,19 @@
+body {
+    background-color: #fca6c9;
+
+}
+
+h1 {
+    color: white;
+}
+
+h1:hover {
+    color: black
+}
+
+ol.ordered_list {
+    text-align: center;
+    font-weight: 200;
+
+
+}
