@@ -1,193 +1,193 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Fira+Sans:wght@200&family=Josefin+Sans:wght@200&family=Mulish:wght@200&family=Permanent+Marker&family=Prompt:wght@100&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Fira+Sans:wght@200&family=Josefin+Sans:wght@200&family=Mulish:wght@200&family=Permanent+Marker&family=Prompt:wght@100&display=swap');
 
 
-/*  --heading-font: Josefin Sans, Permanent Marker, Comfortaa;
-  --paragraph-font: Prompt, Mullish, Fira Sans; */
+    /*  --heading-font: Josefin Sans, Permanent Marker, Comfortaa;
+    --paragraph-font: Prompt, Mullish, Fira Sans; */
 
 
 
-#content {
-    max-width: 1600px;
-    margin: 0 auto;
-}
+    #content {
+        max-width: 1600px;
+        margin: 0 auto;
+    }
 
-nav a {
-    text-align: center;
-    color: #071b1a;
-    text-decoration: none;
-    font-size: 1.2em;
-    padding: 35px;
-}
+    nav a {
+        text-align: center;
+        color: #071b1a;
+        text-decoration: none;
+        font-size: 1.2em;
+        padding: 35px;
+    }
 
-main section img {
-    box-sizing: border-box;
-}
+    main section img {
+        box-sizing: border-box;
+    }
 
-#hero-msg h1, #hero-msg h4 {
-    text-align: center;
-}
+    #hero-msg h1, #hero-msg h4 {
+        text-align: center;
+    }
 
-.button-box {
-    text-align: center;
-}
+    .button-box {
+        text-align: center;
+    }
 
-main section {
-    text-align: center;
-}
-
-
-#background {
-    height: 725px;
-}
-
-body {
-    background-color: #4eaff9;
-    font-family: Mullish, Prompt, Fira Sans;
-    font-size: 22px;
-    font-weight: 900;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #4eaff9;
-    color: black;
-}
-
-nav a:hover {
-    background-color: #4eaff9;
-    color: #ffffff;
-}
-
-.book, .join {
-    background-color:#4eaff9 ;
-    color: #071b1a;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
-}
-
-.book:hover, .join:hover {
-    background-color:#4eaff9 ;
-    color: #ffffff;
-}
-
-#background {
-    background-color: #4eaff9;
-}
-
-.msg {
-    background-color: #4eaff9;
-    line-height: 1.5em;
-}
-
-footer {
-    background-color: #4eaff9;
-    color: #071b1a;
-    font-size: 1.2em;
-    padding: 25px 50px;
-    margin-top: 200px;
-}
-
-footer p :hover {
-    text-decoration: underline;
-    font-size: 1em;
-}
-
-footer p {
-    font-size: 1em;
-}   
-
-.home-title {
-    color: #071b1a;
-    font-family:  Sans, Permanent Marker, Comfortaa;
-    font-size: 2em;
-    margin-top: 10px;
-}
-
-h4 {
-    color: #071b1a;
-}
-
-.msg {
-    padding: 35px;
-}
-
-.msg h2 {
-    color: #071b1a;
-    font-family:  Sans, Permanent Marker, Comfortaa;
-
-}
-
-.msg p {
-    color: #071b1a;
-    font-size: .8em;
-    padding-bottom: 15px;
-}
-
-footer a {
-    color: #071b1a;
-    text-decoration: none;
-}
-
-footer a:hover {
-    color: #ffffff;
-}
-
-/*.home-title:hover {
-    color:#ffffff;
-}*/ 
-
-.logo {
-    width: 80px;
-}
-
-.icon {
-    width: 80px;
-    padding-top: 10px;
-}
-
-#hero-img {
-    width: 100%;
-}
-
-.mountains {
-    margin: auto;
-    text-align: center;
-}
-
-h2 {
-    font-family:  Sans, Permanent Marker, Comfortaa;
-}
-
-#logo_link {  
-    padding-top: 5px;}
-
-footer .social img   {
-    padding-top: 15px;}
+    main section {
+        text-align: center;
+    }
 
 
-.rivers-card {
-    margin: 200px 0;
-}
+    #background {
+        height: 725px;
+    }
 
-.camping-card {
-    margin: 200px 0;
-}
+    body {
+        background-color: #4eaff9;
+        font-family: Mullish, Prompt, Fira Sans;
+        font-size: 22px;
+        font-weight: 900;
+        margin: 0;
+        padding: 0;
+    }
 
-.rapids-card   {
-    margin: 200px 0;
-    
-}
+    header {
+        background-color: #4eaff9;
+        color: black;
+    }
 
-.card-img {
-    border: 10px solid #000000;}
+    nav a:hover {
+        background-color: #4eaff9;
+        color: #ffffff;
+    }
 
-#background {
-    color: #4eaff9;
-}
+    .book, .join {
+        background-color:#4eaff9 ;
+        color: #071b1a;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 15px 30px;
+        margin-top: 50px;
+        border-radius: 5px;
+    }
+
+    .book:hover, .join:hover {
+        background-color:#4eaff9 ;
+        color: #ffffff;
+    }
+
+    #background {
+        background-color: #4eaff9;
+    }
+
+    .msg {
+        background-color: #4eaff9;
+        line-height: 1.5em;
+    }
+
+    footer {
+        background-color: #4eaff9;
+        color: #071b1a;
+        font-size: 1.2em;
+        padding: 25px 50px;
+        margin-top: 200px;
+    }
+
+    footer p :hover {
+        text-decoration: underline;
+        font-size: 1em;
+    }
+
+    footer p {
+        font-size: 1em;
+    }   
+
+    .home-title {
+        color: #071b1a;
+        font-family:  Sans, Permanent Marker, Comfortaa;
+        font-size: 2em;
+        margin-top: 10px;
+    }
+
+    h4 {
+        color: #071b1a;
+    }
+
+    .msg {
+        padding: 35px;
+    }
+
+    .msg h2 {
+        color: #071b1a;
+        font-family:  Sans, Permanent Marker, Comfortaa;
+
+    }
+
+    .msg p {
+        color: #071b1a;
+        font-size: .8em;
+        padding-bottom: 15px;
+    }
+
+    footer a {
+        color: #071b1a;
+        text-decoration: none;
+    }
+
+    footer a:hover {
+        color: #ffffff;
+    }
+
+    /*.home-title:hover {
+        color:#ffffff;
+    }*/ 
+
+    .logo {
+        width: 80px;
+    }
+
+    .icon {
+        width: 80px;
+        padding-top: 10px;
+    }
+
+    #hero-img {
+        width: 100%;
+    }
+
+    .mountains {
+        margin: auto;
+        text-align: center;
+    }
+
+    h2 {
+        font-family:  Sans, Permanent Marker, Comfortaa;
+    }
+
+    #logo_link {  
+        padding-top: 5px;}
+
+    footer .social img   {
+        padding-top: 15px;}
+
+
+    .rivers-card {
+        margin: 200px 0;
+    }
+
+    .camping-card {
+        margin: 200px 0;
+    }
+
+    .rapids-card   {
+        margin: 200px 0;
+        
+    }
+
+    .card-img {
+        border: 10px solid #000000;}
+
+    #background {
+        color: #4eaff9;
+    }
 
 
 
