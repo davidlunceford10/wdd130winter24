@@ -1,0 +1,26 @@
+.one {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column: 1/3;
+    grid-row: 1/3;
+}
+
+.two {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column: 2/3;
+    grid-row: 1/3;
+}
+
+/* display: flex; to allow images to shrink and go to the second row when the page shrinks
+
+clear: both
+    used to clear the flow of a page and float an image to the left instead of the right. 
+
+z-index: 1,2,3 etc to change which layer an image shows up at. 
+
+position: sticky; to keep elements at the top of the screen even when you scroll. 
+    
+
+
+*/ 
