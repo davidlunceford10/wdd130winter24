@@ -1,0 +1,34 @@
+main {
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 1fr;
+}
+
+#card-left {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+#cherries {
+    width: 85%;
+    height: auto;
+   
+}
+
+#card-right {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    width: 100%;
+    height: 100%;
+    background-color: grey;    
+    align-items: center;
+    justify-items: center;
+}
+
+#cherries_text {
+    color:darkred;
+
+}
