@@ -50,8 +50,10 @@
     }
 
     header {
-        background-color: #4eaff9;
+        background-color: /* #_ _ _ _ _ _ [_ _] the brackets are for opacity values.*/;
         color: black;
+        display: grid;
+        grid-template-columns: 150px auto;
     }
 
     nav a:hover {
@@ -97,7 +99,7 @@
     }
 
     footer p {
-        font-size: 1em;
+        font-size: 1em; 
     }   
 
     .home-title {
