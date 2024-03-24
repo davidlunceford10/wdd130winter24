@@ -1,0 +1,83 @@
+header {
+    background-color: #F17909;
+    color: #030301;
+    display: grid;
+    grid-template-columns: 150px auto;
+    border: 7px solid black;    
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-align: center;
+    color:#030301;
+    text-decoration: none;
+    font-size: 1.7em;
+    padding: 35px;
+    font-weight: bolder;
+}
+
+nav a:hover {
+    background-color: #F17909;
+    color: white;
+}
+
+#logo_link {
+    padding-top: 3%;
+    justify-self: left;
+    align-self: left;
+}
+
+.text_and_images_grid_homepage {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+}
+
+#pg1img1  {
+    grid-column:1/2;
+    grid-row: 1/2;
+    justify-self: center; 
+    align-self: center; 
+}
+
+#pg1img3  {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    justify-self: center; 
+    align-self: center; 
+    margin-bottom: 10%;
+}
+
+#homepagetext {
+    grid-column: 2/3;
+    grid-row: 1/3;
+    text-align: left;
+    font-size: 160%;
+}
+
+#pg1img2 {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    justify-self: center; 
+    align-self: center; 
+}
+
+footer {
+    background-color: #F17909;
+    color: #030301;
+    display: grid;
+    grid-template-columns: auto;
+    border: 7px solid black;
+}
+
+.social {
+    padding: 10px;
+}
+
+
+    
