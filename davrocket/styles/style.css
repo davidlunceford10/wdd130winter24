@@ -4,6 +4,7 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
     border: 7px solid black;    
+    width: 100%;
 }
 
 nav {
@@ -73,12 +74,10 @@ footer {
     color: #030301;
     display: grid;
     grid-template-columns: auto;
-    border: 7px solid black;
+    border: 10px solid black;
+    width: 100%;
+    padding: 1%;
 }
 
-.social {
-    padding: 10px;
-}
 
 
-    
